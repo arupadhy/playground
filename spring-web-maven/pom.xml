@@ -61,10 +61,7 @@
 					<webResources>
 						<resource>
 							<directory> src/main/webapp</directory>
-							<targetPath>WEB-INF/static</targetPath>
-							<includes>
-								<include>view.html</include>
-							</includes>
+							<targetPath>WEB-INF/</targetPath>
 						</resource>
 					</webResources>
 				</configuration>
