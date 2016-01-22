@@ -1,3 +1,1 @@
-function hello() {
-	console.log("logging hello...");
-}
+var myApp = angular.module("testApp",[]);
